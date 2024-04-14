@@ -26,7 +26,7 @@ body{
 }
 .hero-container{
     height: 95vh;
-    background-image: url("/ASSETS/images/bg.jpg");
+    background-image: url("bg.jpg");
     position: relative;
 }
 .overlay{
